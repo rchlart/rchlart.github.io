@@ -35,7 +35,7 @@ images { border: 0; }
           transform: rotate(-3deg);
 }
 
-.wrapper { margin: 0 auto 0 auto; background: #FFFFFF; padding: 25px; width: 985px; }
+.wrapper { margin: 0 auto 0 auto; background: rgba(255,255,255,0.85); padding: 25px; width: 985px; }
 
 .wrapper {}
 
