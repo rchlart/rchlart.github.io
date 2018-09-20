@@ -81,7 +81,7 @@ h2 { margin: 25px 0 5px 0; }
 a.showLink, a.hideLink { text-decoration: none; color: #000000; }
 
 h3 { padding: 10px; background: #000000; border-radius: 10px; color: #FFFFFF; }
-h3:hover { background: #333333; color: #FFFFFF; }
+h3:hover { background: #f47e4d; color: #FFFFFF; }
 .open { background: #000000; color: #FFFFFF; }
 .open:hover { background: #000000; color: #FFFFFF; }
 
