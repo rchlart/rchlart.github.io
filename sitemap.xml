@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- 
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://www.rchlart.com/</loc>
+  <loc>https://rchlart.com/</loc>
+  <lastmod>2019-02-17T18:24:14+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://rchlart.com/index.html</loc>
-<lastmod>2016-05-4</lastmod>
-<changefreq>monthly</changefreq>
-<priority>1.0</priority>
+  <loc>https://rchlart.com/gallery</loc>
+  <lastmod>2019-02-17T18:24:13+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://www.example.com/gallery</loc>
+  <loc>https://rchlart.com/store</loc>
+  <lastmod>2019-02-17T18:24:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rchlart.com/contact</loc>
+  <lastmod>2019-02-17T18:24:13+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
-<!-- <url>
-<loc>http://www.example.com/page3</loc>
-</url> -->
- 
+
 </urlset>
